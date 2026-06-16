@@ -16,6 +16,10 @@
 
 ![](https://komarev.com/ghpvc/?username=sudheersharma7906-design&color=blue)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](YOUR_PORTFOLIO_URL)
+
 
 
 
