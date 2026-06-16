@@ -8,9 +8,8 @@
 - 🚀 Learning DSA & System Design
 - 🌱 Open Source Enthusiast
 
-<h2 align="center">💻 Tech Arsenal</h2>
-
-### 👨‍💻 Programming Languages
+<h2 align="center">💻 Tech Arsenal
+## 👨‍💻 Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -53,7 +52,9 @@
 ### 🤖 AI/ML & Data Science
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)</h2>
+
+#
 
 
 
