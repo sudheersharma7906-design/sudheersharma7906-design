@@ -9,6 +9,8 @@
 - 🌱 Open Source Enthusiast
 
 <h2 align="center">💻 Tech Arsenal
+
+  
 ## 👨‍💻 Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
